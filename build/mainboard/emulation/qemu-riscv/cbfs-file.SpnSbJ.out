@@ -1,0 +1,3 @@
+# This image was built using coreboot 4.12-3000-g9cc2a6a0c3-dirty
+CONFIG_ANY_TOOLCHAIN=y
+CONFIG_BOARD_EMULATION_QEMU_RISCV_RV64=y
